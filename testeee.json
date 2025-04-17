@@ -8,7 +8,7 @@
     },
     {
         "Usuario": "outro_usuario",
-        "Status": "OFF",
+        "Status": "ON",
         "MotivoOFF": "Banido",
         "Versao": "1.0.1",
         "IdClienteDiscord": "987654321098765432"
