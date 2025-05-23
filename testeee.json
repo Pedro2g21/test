@@ -7,10 +7,10 @@
         "IdClienteDiscord": "123456789012345678"
     },
     {
-        "Usuario": "outro_usuario",
+        "Usuario": "scarlletfree",
         "Status": "ON",
         "MotivoOFF": "Banido",
-        "Versao": "1.0.1",
+        "Versao": "v1.0",
         "IdClienteDiscord": "987654321098765432"
     }
 ]
