@@ -1,7 +1,7 @@
 [
     {
-        "Usuario": "Scarllet",
-        "Status": "OFF",
+        "Usuario": "Scarllet1",
+        "Status": "ON",
         "MotivoOFF": "Manutencao",
         "Versao": "v1.0",
         "IdClienteDiscord": "123456789012345678"
@@ -29,7 +29,7 @@
     },
     {
         "Usuario": "SCARLLETMENUPCVIPGAY218",
-        "Status": "OFF",
+        "Status": "ON",
         "MotivoOFF": "A",
         "Versao": "v1.0",
         "IdClienteDiscord": "1251251252155"
