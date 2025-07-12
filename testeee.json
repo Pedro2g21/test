@@ -1,35 +1,35 @@
 [
     {
         "Usuario": "Scarllet",
-        "Status": "ON",
+        "Status": "OFF",
         "MotivoOFF": "Manutencao",
         "Versao": "v1.0",
         "IdClienteDiscord": "123456789012345678"
     },
     {
         "Usuario": "scarlletfree",
-        "Status": "ON",
+        "Status": "OFF",
         "MotivoOFF": "",
         "Versao": "v1.0",
         "IdClienteDiscord": "987654321098765432"
     },
     {
         "Usuario": "gratiscomfarm",
-        "Status": "ON",
+        "Status": "OFF",
         "MotivoOFF": "",
         "Versao": "v1.0",
         "IdClienteDiscord": "987654321098765432"
     },
     {
         "Usuario": "SCARLLETFREEPC111",
-        "Status": "ON",
+        "Status": "OFF",
         "MotivoOFF": "A",
         "Versao": "v1.0",
         "IdClienteDiscord": "1251251252155"
     },
     {
         "Usuario": "SCARLLETMENUPCVIPGAY218",
-        "Status": "ON",
+        "Status": "OFF",
         "MotivoOFF": "A",
         "Versao": "v1.0",
         "IdClienteDiscord": "1251251252155"
