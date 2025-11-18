@@ -1,7 +1,7 @@
 [
     {
         "Usuario": "versaovip",
-        "Status": "ON",
+        "Status": "OFF",
         "MotivoOFF": "Manutencao",
         "Versao": "v1.0",
         "IdClienteDiscord": "123456789012345678"
@@ -22,7 +22,7 @@
     },
     { 
         "Usuario": "prismxezos",
-        "Status": "ON",
+        "Status": "OFF",
         "MotivoOFF": "PARA DE VENDER ESSA MERDA MORTO DE FOME FDP",
         "Versao": "v1.0",
         "IdClienteDiscord": "987654321098765432"
@@ -36,7 +36,7 @@
     },
     {
         "Usuario": "scarlletmo153",
-        "Status": "ON",
+        "Status": "OFF",
         "MotivoOFF": "A",
         "Versao": "v1.0",
         "IdClienteDiscord": "1251251252155"
